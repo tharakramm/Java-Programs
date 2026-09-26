@@ -151,3 +151,11 @@ File : [Sorting.java](Sorting.java)
 >This Java program accepts an array of elements from the user and sorts the elements in ascending order using a sorting method. It compares the elements and swaps them when necessary, then displays the sorted array.
 
 ---
+
+#### String Methods
+
+File : [StringMethods.java](StringMethods.java)
+
+>This Java program accepts two strings from the user and demonstrates various String methods such as changing case, concatenation, finding length, comparing strings, searching characters and substrings, extracting substrings, replacing characters, and checking whether a string is empty.
+
+***
