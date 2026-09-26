@@ -1,3 +1,5 @@
+import java.util.*;
+
 class FactorialRecursion
 {
     int fact(int n)
