@@ -127,3 +127,11 @@ File : [PrimeNum.java](PrimeNum.java)
 >This Java program accepts a number from the user and checks whether it is a prime number using a separate method. It counts the number of factors of the given number and determines whether the number is prime based on the factor count.
 
 ---
+
+#### Factorial Using Recursion
+
+File : [FactorialRecursion.java](FactorialRecursion.java)
+
+>This Java program accepts a non-negative integer from the user and calculates its factorial using recursion. The recursive method repeatedly multiplies the number by the factorial of the previous number until it reaches 0.
+
+***
