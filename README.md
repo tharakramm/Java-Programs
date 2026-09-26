@@ -43,3 +43,13 @@ It accepts student details and displays the name and marks using the appropriate
 File: [Stud.java](Stud.java)
 
 >This Java program accepts student details and marks, then displays the student's information, total marks, and average marks using separate methods.
+
+---
+
+#### Largest and Smallest Number
+
+File: [LargeSmall.java](LargeSmall.java)
+
+>This Java program accepts the elements of an array and finds the largest and smallest numbers using separate methods.
+
+---
