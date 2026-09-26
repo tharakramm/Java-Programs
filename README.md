@@ -143,3 +143,11 @@ File : [Searching.java](Searching.java)
 >This Java program accepts an array of unique elements from the user and searches for a specified element using linear search. It checks each element of the array and displays the index if the element is found; otherwise, it displays that the element is not present.
 
 ***
+
+#### Sorting an Array
+
+File : [Sorting.java](Sorting.java)
+
+>This Java program accepts an array of elements from the user and sorts the elements in ascending order using a sorting method. It compares the elements and swaps them when necessary, then displays the sorted array.
+
+---
