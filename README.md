@@ -35,3 +35,11 @@ File : [Students.java](Students.java)
 
 >This Java program demonstrates constructor overloading by creating multiple constructors with different parameters.
 It accepts student details and displays the name and marks using the appropriate constructor.
+
+---
+
+#### Student Details, Total and Average
+
+File: [Stud.java](Stud.java)
+
+>This Java program accepts student details and marks, then displays the student's information, total marks, and average marks using separate methods.
