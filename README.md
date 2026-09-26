@@ -53,3 +53,13 @@ File: [LargeSmall.java](LargeSmall.java)
 >This Java program accepts the elements of an array and finds the largest and smallest numbers using separate methods.
 
 ---
+
+#### ATM Deposit and Withdrawal
+
+File: [Atm.java](Atm.java)
+
+>This Java program simulates basic ATM operations by verifying a PIN and allowing the user to deposit and withdraw money.
+It also displays the current account balance and checks for insufficient balance during withdrawal.
+
+***
+
