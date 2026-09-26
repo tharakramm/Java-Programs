@@ -111,3 +111,11 @@ File : [ArithmeticOP.java](ArithmeticOP.java)
 >This Java program accepts two numbers from the user and performs arithmetic operations such as addition, subtraction, multiplication, division, and modulus using separate methods. It also checks for division by zero before performing the division operation.
 
 ---
+
+#### Largest of Three Numbers
+
+File : [LargeNum.java](LargeNum.java)
+
+>This Java program accepts three numbers from the user and compares them to find the largest number. It also checks whether all three numbers are equal and displays the appropriate result.
+
+---
