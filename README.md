@@ -11,7 +11,7 @@ It uses sleep() to create delays between outputs and join() to make the main thr
 
 ---
 
-#### Reverse an Array
+### Reverse an Array
 
 File: [Rev.java](Rev.java)
 
