@@ -101,3 +101,13 @@ File : [Person.java](Person.java)
 File : [Fibbonaci.java](Fibbonaci.java)
 
 >This Java program accepts the number of terms from the user and generates the Fibonacci series using a method.
+
+---
+
+#### Arithmetic Operations
+
+File : [ArithmeticOP.java](ArithmeticOP.java)
+
+>This Java program accepts two numbers from the user and performs arithmetic operations such as addition, subtraction, multiplication, division, and modulus using separate methods. It also checks for division by zero before performing the division operation.
+
+---
