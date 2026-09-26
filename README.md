@@ -79,3 +79,11 @@ File: [Mean.java](Mean.java)
 The sum is calculated first and then passed to another method to calculate the mean.
 
 ---
+
+#### Merge Two Arrays
+
+File : [Merge.java](Merge.java)
+
+>This Java program accepts two arrays from the user and merges them into a single resultant array. It copies the elements of both arrays into the resultant array and displays the merged array.
+
+---
