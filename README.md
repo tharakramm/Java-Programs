@@ -71,3 +71,11 @@ File: [CountEvenOrOdd.java](CountEvenOrOdd.java)
 
 ---
 
+#### Mean of Array Elements
+
+File: [Mean.java](Mean.java)
+
+>This Java program calculates the sum and arithmetic mean of the elements in an array using separate methods.
+The sum is calculated first and then passed to another method to calculate the mean.
+
+---
