@@ -95,3 +95,9 @@ File : [Person.java](Person.java)
 >This Java program accepts a person's name and age, validates the age, and creates a Person object using a parameterized constructor. The constructor initializes the name and age using the this keyword and displays the details.
 
 ---
+
+#### Fibonacci Series
+
+File : [Fibbonaci.java](Fibbonaci.java)
+
+>This Java program accepts the number of terms from the user and generates the Fibonacci series using a method.
