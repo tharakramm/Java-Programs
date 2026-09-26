@@ -119,3 +119,11 @@ File : [LargeNum.java](LargeNum.java)
 >This Java program accepts three numbers from the user and compares them to find the largest number. It also checks whether all three numbers are equal and displays the appropriate result.
 
 ---
+
+#### Prime Number
+
+File : [PrimeNum.java](PrimeNum.java)
+
+>This Java program accepts a number from the user and checks whether it is a prime number using a separate method. It counts the number of factors of the given number and determines whether the number is prime based on the factor count.
+
+---
