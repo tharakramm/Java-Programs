@@ -2,7 +2,7 @@ import java.util.*;
 
 class Fibbonaci
 {
-    void fibbonaci(int n)
+    void fibb(int n)
     {
     
         int pv=0,sv=1,next;
@@ -42,7 +42,7 @@ class Fibbonaci
         System.out.print("Enter Last no for fibbonaci : ");
         n=sc.nextInt();
         Fibbonaci f=new Fibbonaci();
-        f.fibbonaci(n);
+        f.fibb(n);
         
     }
     
