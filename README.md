@@ -63,3 +63,11 @@ It also displays the current account balance and checks for insufficient balance
 
 ***
 
+#### Count Even and Odd Numbers
+
+File: [CountEvenOrOdd.java](CountEvenOrOdd.java)
+
+>This Java program accepts the elements of an array and counts how many even and odd numbers are present in the array.
+
+---
+
