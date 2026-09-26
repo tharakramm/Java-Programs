@@ -2,7 +2,7 @@
 
 My collection of Java programs and practice codes.
 
-### Thread Sleep and Join
+#### Thread Sleep and Join
 
 File: [Boom.java](Boom.java)
 
@@ -11,7 +11,7 @@ It uses sleep() to create delays between outputs and join() to make the main thr
 
 ---
 
-### Reverse an Array
+#### Reverse an Array
 
 File: [Rev.java](Rev.java)
 
