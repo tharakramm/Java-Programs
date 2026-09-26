@@ -87,3 +87,11 @@ File : [Merge.java](Merge.java)
 >This Java program accepts two arrays from the user and merges them into a single resultant array. It copies the elements of both arrays into the resultant array and displays the merged array.
 
 ---
+
+#### Printing Person Details Using Constructor
+
+File : [Person.java](Person.java)
+
+>This Java program accepts a person's name and age, validates the age, and creates a Person object using a parameterized constructor. The constructor initializes the name and age using the this keyword and displays the details.
+
+---
