@@ -37,10 +37,10 @@ class Stud
 		s.sid=sc.nextInt();
 		
 		System.out.print("Enter Marks1: ");
-		s.m2=sc.nextInt();
+		s.m1=sc.nextInt();
 		
 		System.out.print("Enter Marks2: ");
-		s.m1=sc.nextInt();
+		s.m2=sc.nextInt();
 		
 		System.out.print("Enter Marks3: ");
 		s.m3=sc.nextInt();
